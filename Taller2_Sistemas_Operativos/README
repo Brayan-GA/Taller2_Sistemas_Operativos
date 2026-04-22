@@ -1,0 +1,18 @@
+# Taller de Sistemas Operativos
+
+## Parte 1: Sistema de Archivos
+Se simuló una estructura jerárquica con usuarios y archivos utilizando comandos en Windows.
+
+Se utilizó el comando:
+tree /f
+
+## Parte 2: Shell Gráfico
+Se desarrolló un shell gráfico en Python usando Tkinter.
+
+Funciones:
+- Abrir navegador
+- Abrir editor de texto
+- Abrir terminal
+
+## Autor
+Brayan Gil
