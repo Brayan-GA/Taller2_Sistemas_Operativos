@@ -4,7 +4,7 @@
 Se simuló una estructura jerárquica con usuarios y archivos utilizando comandos en Windows.
 
 Se utilizó el comando:
-tree /f
+tree
 
 ## Parte 2: Shell Gráfico
 Se desarrolló un shell gráfico en Python usando Tkinter.
